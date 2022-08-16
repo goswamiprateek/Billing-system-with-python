@@ -1,2 +1,2 @@
 # Prateek
-Prateek Billing system project
+Simple Restaurant Billing system project
